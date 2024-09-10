@@ -58,6 +58,11 @@ export const SETUP = [
     name: "new pack (3.3)",
     enabled: 28,
     mandatory: 29,
+  },
+  {
+    name: "Accessibility Learning Path enabled",
+    enabled: 30,
+    mandatory: 31,
   }
 
 ]
